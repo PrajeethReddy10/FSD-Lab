@@ -1,0 +1,35 @@
+/* Reconstructed from the output screenshot (CSS was not present in the PDF) */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid gray;
+    vertical-align: top;
+    padding: 8px;
+    font-size: 14px;
+}
+.heading {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.contact { width: 20%; }
+.about   { width: 55%; }
+.logo {
+    width: 25%;
+    text-align: center;
+}
+.logo img {
+    width: 100px;
+}
+.footer {
+    background-color: navy;
+    color: white;
+    text-align: center;
+}

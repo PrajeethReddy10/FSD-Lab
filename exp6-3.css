@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f1f5f9;
+}
+main {
+  max-width: 450px;
+  margin: 40px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+}
+input {
+  padding: 10px;
+  width: 65%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+button {
+  padding: 10px;
+  margin: 4px;
+  border: 0;
+  border-radius: 5px;
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+}
+.task {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 12px;
+  padding: 10px;
+  background: #f1f5f9;
+  border-radius: 5px;
+}
+.done {
+  text-decoration: line-through;
+  color: gray;
+}
